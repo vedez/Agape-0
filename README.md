@@ -8,9 +8,9 @@
 |  | Details |
 |-----------|-----------|
 | Module | Software Engineering 1 & 2 |
-| Module Code | CMPUX, CMPU2020 |
+| Module Code | CMPU2020 |
 | Language | X |
-| Lecturer |  X |
+| Lecturer | Richard Lawlor[1], Ciaran O'Driscoll[2] |
 | Source | Technological University Dublin (TUD) |
 
 ## Projects
