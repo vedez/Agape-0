@@ -14,6 +14,6 @@
 | Source | Technological University Dublin (TUD) |
 
 ## Projects
-- [[Agape] and [NanAi]](https://github.com/vedez/Software_Engineering_1-2/tree/main/Projects/Agape%20or%20NanAi)
+- [Agape](https://github.com/vedez/Software_Engineering_1-2/tree/main/Projects/Agape%20or%20NanAi)
 
 
